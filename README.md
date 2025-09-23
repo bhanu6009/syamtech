@@ -1,2 +1,2 @@
-# syamtech
+# syamtech2
 Shellscript
